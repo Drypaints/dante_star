@@ -1,8 +1,8 @@
 ##
 ## EPITECH PROJECT, 2018
-## tetris
+## dante
 ## File description:
-## Makefile for tetris
+## Makefile for dante
 ##
 
 all:
